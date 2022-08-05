@@ -2,6 +2,6 @@
 
 Bootstrap Pricing Table.
 
-#### Demo:
+### Demo:
 
 https://rad-brigadeiros-a2dcc7.netlify.app/
